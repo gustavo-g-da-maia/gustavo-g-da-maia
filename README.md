@@ -1,17 +1,3 @@
-<p align="center">
-  <span style="display:inline-block; animation: mover 10s linear infinite;">
-    <strong>Bem-vindo ao meu GitHub!</strong>
-  </span>
-</p>
-
-<style>
-@keyframes mover {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
-
-
 
 ## Sobre mim:
 
@@ -33,6 +19,7 @@ Olá, me chamo Gustavo Gessner Da Maia!
     <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
+
 
 ## Tecnologias que uso:
 
