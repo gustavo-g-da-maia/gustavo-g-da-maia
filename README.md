@@ -1,8 +1,16 @@
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
+  <span style="display:inline-block; animation: mover 10s linear infinite;">
     <strong>Bem-vindo ao meu GitHub!</strong>
-  </marquee>
+  </span>
 </p>
+
+<style>
+@keyframes mover {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+
 
 
 ## Sobre mim:
