@@ -1,4 +1,6 @@
-  Olá, me chamo Gustavo Gessner Da Maia!
+# Sobre mim:
+
+Olá, me chamo Gustavo Gessner Da Maia!
 
 Atualmente estou trabalhando em projetos de programação
 Estudando **Java**, **HTML/CSS/JS** e **SQL**
