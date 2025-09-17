@@ -1,3 +1,10 @@
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <strong>Bem-vindo ao meu GitHub!</strong>
+  </marquee>
+</p>
+
+
 ## Sobre mim:
 
 Olá, me chamo Gustavo Gessner Da Maia!
