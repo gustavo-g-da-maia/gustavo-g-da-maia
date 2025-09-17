@@ -9,7 +9,8 @@ Olá, me chamo Gustavo Gessner Da Maia!
 
 Tecnologias que uso:
 - Java
-- HTML, CSS e Java
+- HTML
+- CSS 
 - SQL
 - Git & GitHub
 
