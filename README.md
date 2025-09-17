@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/gustavo-g-da-maia/titulo-animado.sgv/main/animacao.svg](https://github.com/gustavo-g-da-maia/titulo-animado.sgv.git" alt="Bem vindo ao meu GitHub" />
-
-
 
 ## Sobre mim:
 
