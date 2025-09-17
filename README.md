@@ -1,16 +1,14 @@
-## Hi there 👋
+  Olá, me chamo Gustavo Gessner Da Maia!
 
-<!--
-**gustavo-g-da-maia/gustavo-g-da-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou trabalhando em projetos de programação
+Estudando **Java**, **HTML/CSS/JS** e **SQL**
+Cursando Assistente Técnico em Técnologia da Informação no SENAI/Timbó - SC
+Como me encontrar: [LinkedIn](www.linkedin.com/in/gustavo-gessner-da-maia-989437314) | [Email](mailto:gustavo_g_da-maia@estudante.sesisenai.org.br) | [Instagram](www.instagram.com/gustavo._gm_)
 
-Here are some ideas to get you started:
+Tecnologias que uso:
+- Java
+- HTML, CSS e JavaScript
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
