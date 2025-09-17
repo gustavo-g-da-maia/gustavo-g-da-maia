@@ -1,4 +1,7 @@
-# Sobre mim:
+<marquee direction="left" scrollamount="10">🚀 Bem-vindo ao meu GitHub!</marquee>
+
+
+## Sobre mim:
 
 Olá, me chamo Gustavo Gessner Da Maia!
 
