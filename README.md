@@ -1,4 +1,5 @@
-<marquee direction="left" scrollamount="10">🚀 Bem-vindo ao meu GitHub!</marquee>
+<img src="https://raw.githubusercontent.com/gustavo-g-da-maia/titulo-animado.sgv/main/animacao.svg" alt="Bem vindo ao meu GitHub" />
+
 
 
 ## Sobre mim:
